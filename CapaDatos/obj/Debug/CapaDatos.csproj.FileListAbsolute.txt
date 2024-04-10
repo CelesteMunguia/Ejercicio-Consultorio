@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.pdb

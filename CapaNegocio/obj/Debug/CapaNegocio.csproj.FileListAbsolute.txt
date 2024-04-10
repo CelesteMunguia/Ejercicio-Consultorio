@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaNegocio\obj\Debug\CapaNegocio.pdb
