@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CapaDatos.BaseDatos.Modelos;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
@@ -21,5 +22,8 @@ namespace CapaDatos.BaseDatos
             modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>();
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
+        public DbSet<MMedico> MMedico { get; set; }
+        public DbSet<MPaciente> MPaciente { get; set; }
+        public DbSet<MCita> MCita { get; set; }
     }
 }

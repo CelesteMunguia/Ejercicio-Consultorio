@@ -56,14 +56,62 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BuscarMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarMedico.Designer.cs">
+      <DependentUpon>BuscarMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPaciente.Designer.cs">
+      <DependentUpon>BuscarPaciente.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="PCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PCita.Designer.cs">
+      <DependentUpon>PCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PMedico.Designer.cs">
+      <DependentUpon>PMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PPaciente.Designer.cs">
+      <DependentUpon>PPaciente.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BuscarMedico.resx">
+      <DependentUpon>BuscarMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPaciente.resx">
+      <DependentUpon>BuscarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PCita.resx">
+      <DependentUpon>PCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PMedico.resx">
+      <DependentUpon>PMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PPaciente.resx">
+      <DependentUpon>PPaciente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

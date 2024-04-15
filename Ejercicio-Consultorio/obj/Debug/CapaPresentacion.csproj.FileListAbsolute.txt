@@ -18,3 +18,9 @@ C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debu
 C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\Ejercicio-Consultorio.exe
 C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\Ejercicio-Consultorio.pdb
+C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\Ejercicio_Consultorio.Menu.resources
+C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\Ejercicio_Consultorio.PMedico.resources
+C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\Ejercicio_Consultorio.PPaciente.resources
+C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\Ejercicio_Consultorio.BuscarMedico.resources
+C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\Ejercicio_Consultorio.PCita.resources
+C:\Users\admin\source\repos\Ejercicio-Consultorio\Ejercicio-Consultorio\obj\Debug\Ejercicio_Consultorio.BuscarPaciente.resources
