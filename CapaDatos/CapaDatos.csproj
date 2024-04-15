@@ -52,16 +52,45 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseDatos\ConsultorioContext.cs" />
+    <Compile Include="BaseDatos\Modelos\MCita.cs" />
+    <Compile Include="BaseDatos\Modelos\MMedico.cs" />
+    <Compile Include="BaseDatos\Modelos\MPaciente.cs" />
     <Compile Include="Core\IRepository.cs" />
     <Compile Include="Core\IUnitOfWork.cs" />
     <Compile Include="Core\Repository.cs" />
     <Compile Include="Core\UnitOfWork.cs" />
+    <Compile Include="DCita.cs" />
+    <Compile Include="DMedico.cs" />
+    <Compile Include="DPaciente.cs" />
+    <Compile Include="Migrations\202404112059054_AddTablaMedico.cs" />
+    <Compile Include="Migrations\202404112059054_AddTablaMedico.designer.cs">
+      <DependentUpon>202404112059054_AddTablaMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202404112112564_AddTablaPaciente.cs" />
+    <Compile Include="Migrations\202404112112564_AddTablaPaciente.designer.cs">
+      <DependentUpon>202404112112564_AddTablaPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202404112125126_AddTablaCita.cs" />
+    <Compile Include="Migrations\202404112125126_AddTablaCita.designer.cs">
+      <DependentUpon>202404112125126_AddTablaCita.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202404112059054_AddTablaMedico.resx">
+      <DependentUpon>202404112059054_AddTablaMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202404112112564_AddTablaPaciente.resx">
+      <DependentUpon>202404112112564_AddTablaPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202404112125126_AddTablaCita.resx">
+      <DependentUpon>202404112125126_AddTablaCita.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

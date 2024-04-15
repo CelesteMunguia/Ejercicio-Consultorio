@@ -10,3 +10,7 @@ C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.
 C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.Migrations.AddTablaMedico.resources
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.Migrations.AddTablaPaciente.resources
+C:\Users\admin\source\repos\Ejercicio-Consultorio\CapaDatos\obj\Debug\CapaDatos.Migrations.AddTablaCita.resources
